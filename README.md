@@ -1,6 +1,6 @@
 # Computing Irrational Numbers: An Interactive Guide to Root-Finding 📚
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/YOUR_NOTEBOOK_FILE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JunghunLeePhD/PY-NewtonMethod/blob/main/RootFindingAlgorithm.ipynb)
 
 > **Note:** To get the Colab link above to work, you must:
 > 1.  Save this file as a Jupyter Notebook (e.g., `Root_Finding_Tutorial.ipynb`).
